@@ -36,6 +36,9 @@ class ViewController: UIViewController {
         enterMessageTextField.resignFirstResponder()
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         
+        //comment for GitHub testing
+        
+        
     }
 
 }
